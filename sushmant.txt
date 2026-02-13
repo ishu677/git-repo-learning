@@ -16,7 +16,4 @@ hgfds
 
 
 
-
-
-
 print(Hello world)
